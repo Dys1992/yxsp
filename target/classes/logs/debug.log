@@ -1,0 +1,45 @@
+2018-05-04 15:39:52 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":"111"}
+  2018-05-04 15:39:52 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"uid":1,"videoBaseId":"111","status":0}}
+  2018-05-04 15:39:52 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":""}
+  2018-05-04 15:39:52 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":20001,"errmsg":"视频id为空","data":null}
+  2018-05-04 15:42:58 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:80) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/exec,入参：{"uid":1,"bizType":"1","flag":1,"videoBaseId":"123","status":1}
+  2018-05-04 15:42:58 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:81) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":1}
+  2018-05-04 15:42:59 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":"111"}
+  2018-05-04 15:42:59 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"uid":1,"videoBaseId":"111","status":0}}
+  2018-05-04 15:42:59 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":""}
+  2018-05-04 15:42:59 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":20001,"errmsg":"视频id为空","data":null}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:80) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/exec,入参：{"uid":1,"bizType":"1","flag":1,"videoBaseId":"123","status":1}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:81) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":1}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":"111"}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"uid":1,"videoBaseId":"111","status":0}}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:64) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":""}
+  2018-05-04 15:44:22 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:65) ]
+INFO:返回参数:{"code":20001,"errmsg":"视频id为空","data":null}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:77) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/exec,入参：{"uid":1,"bizType":"1","flag":1,"videoBaseId":"123","status":1}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.Exec(CollectionTest.java:78) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":1}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:61) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":"111"}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:62) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"uid":1,"videoBaseId":"111","status":0}}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:61) ]
+INFO:URL:http://39.107.68.32:8086/ott/video/collection/iscollected,入参：{"uid":1,"videoBaseId":""}
+  2018-05-04 16:51:45 下午 [Thread: main][ Class:testcase.CollectionTest >> Method: testcase.CollectionTest.IsCollectedTest(CollectionTest.java:62) ]
+INFO:返回参数:{"code":20001,"errmsg":"视频id为空","data":null}
+  
