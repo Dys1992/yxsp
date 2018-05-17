@@ -31,22 +31,7 @@ public class YxspHotTest {
     }
 
 
-    @Test(groups = "hot",dataProvider = "banner")
-    public void bannerTest(HashMap<String,String> data) {
-        String result = null;
-        //获取请求的URL
-        String path = data.get("path");
-        String param = data.get("body");
-        String environment = data.get("environment");
-        if (Integer.parseInt(environment) == 0){
-            String url = UrlConstants.YSXP_DEV+path;
-            result = HttpRequestUtils.sendPost(url, param);
-            log.info("URL:"+url+",入参："+param);
-            log.info("返回参数:"+result);
-        }
 
-        assert Integer.parseInt(JsonAnalyze.getStatus(result)) == Integer.parseInt(data.get("code"));
-    }
 
     @Test(groups = "hot",dataProvider = "hotCard")
     public void hotCardTest(HashMap<String,String> data) {
