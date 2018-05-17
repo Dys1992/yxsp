@@ -12,17 +12,17 @@ public class JsonAnalyze {
 
     private static final Logger log = Logger.getLogger(JsonAnalyze.class);
 
-    public String getStatus(String str){
+    public static String getStatus(String str) {
+        String status = null;
+        if (str != null) {
+            JSONObject jsonObject = JSONObject.parseObject(str);
+            status = jsonObject.getString("code");
 
-        if (str ==""){
+
+        } else {
             log.error("返回参数为空");
         }
-        JSONObject jsonObject = JSONObject.parseObject(str);
-        String status = jsonObject.getString("code");
+
         return status;
-
     }
-
-
-
 }

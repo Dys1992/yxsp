@@ -1,11 +1,69 @@
-package util;/**
- * @Author: fanyu
- * @Date: 2018/5/15 11:57
- */
+package util;
+
+import org.apache.http.HttpStatus;
+import org.apache.http.client.ClientProtocolException;
+import org.apache.http.client.config.RequestConfig;
+import org.apache.http.client.methods.CloseableHttpResponse;
+import org.apache.http.client.methods.HttpPost;
+import org.apache.http.entity.StringEntity;
+import org.apache.http.impl.client.CloseableHttpClient;
+import org.apache.http.impl.client.HttpClients;
+import org.apache.http.util.EntityUtils;
+import org.apache.log4j.Logger;
+
+import java.io.IOException;
 
 /**
- * @Author: Gosin
- * @Date: 2018/5/15 11:57
+ * @author fanyu
+ * @Date: 2018/5/15 11:13
  */
 public class HttpRequestUtils {
+
+    public static final Logger log = Logger.getLogger(HttpRequestUtils.class);
+
+    private static RequestConfig requestConfig;
+
+    static {
+        requestConfig = RequestConfig.custom().setSocketTimeout(2000).setConnectionRequestTimeout(2000).build();
+    }
+
+
+    public static String sendPost(String url, String strParam){
+        String result = null ;
+        CloseableHttpClient client = HttpClients.createDefault();
+        HttpPost httpPost = new HttpPost(url);
+        try{
+            if(null != strParam){
+                StringEntity entity = new StringEntity(strParam,"UTF-8");
+                entity.setContentEncoding("UTF-8");
+                entity.setContentType("application/json");
+                httpPost.setEntity(entity);
+                httpPost.setConfig(requestConfig);
+            }else {
+                log.error("请求参数为空");
+            }
+
+            CloseableHttpResponse result1 = client.execute(httpPost);
+
+            if (result1.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
+                try{
+
+                    result = EntityUtils.toString(result1.getEntity(),"UTF-8");
+
+                }catch (Exception e){
+
+                    log.error("post请求提交失败:" + url, e);
+
+                }
+            }
+
+        } catch (ClientProtocolException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            log.error("post请求提交失败:" + url, e);
+            e.printStackTrace();
+        }
+
+        return result;
+    }
 }

@@ -24,9 +24,8 @@
                 <configuration>
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
-                        <file>res/testNG.ExcelData</file>
+                        <suiteXmlFile>src/main/resources/yxsp.xml</suiteXmlFile>
                     </suiteXmlFiles>
-                    <!--<workingDirectory>target/</workingDirectory>-->
                 </configuration>
             </plugin>
         </plugins>
@@ -71,6 +70,18 @@
             <version>6.13.1</version>
         </dependency>
         <dependency>
+            <groupId>org.uncommons</groupId>
+            <artifactId>reportng</artifactId>
+            <version>1.1.4</version>
+            <scope>test</scope>
+            <exclusions>
+                <exclusion>
+                    <groupId>org.testng</groupId>
+                    <artifactId>testng</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+        <dependency>
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.7</version>
@@ -80,8 +91,6 @@
             <artifactId>poi-ooxml</artifactId>
             <version>3.15</version>
         </dependency>
-
-
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>

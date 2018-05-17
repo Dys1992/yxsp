@@ -1,22 +1,18 @@
 package util;
 
 
-import bean.httpheaderbean.HttpRequestHeaderBean;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.config.RequestConfig;
 import org.apache.http.client.methods.CloseableHttpResponse;
 import org.apache.http.client.methods.HttpGet;
-import org.apache.http.client.methods.HttpPost;
-import org.apache.http.entity.StringEntity;
 import org.apache.http.impl.client.CloseableHttpClient;
 import org.apache.http.impl.client.HttpClients;
 import org.apache.http.util.EntityUtils;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
-import java.util.List;
 
 /**
  * @author fanyu
@@ -25,18 +21,16 @@ public class HttpUtils {
 
     private static final Logger log = Logger.getLogger(HttpUtils.class);
 
-    private static RequestConfig requestConfig = null;
+    private static RequestConfig requestConfig;
 
     static {
-        requestConfig = RequestConfig.custom().setSocketTimeout(2000).setConnectionRequestTimeout(2000).build();
+        requestConfig = RequestConfig.custom().setSocketTimeout(4000).setConnectionRequestTimeout(4000).build();
     }
-
 
     /**
      * 发送get请求
      * @url url 路径
      * @param param 参数
-     * @return
      */
     public static String senGet(String url,String param) {
 
@@ -70,73 +64,68 @@ public class HttpUtils {
     }
 
 
-    public static String sendPost(String url, String strParam){
+//    public static String sendPost(String url, String strParam){
+//
+//        CloseableHttpClient client = HttpClients.createDefault();
+//        String  result = null;
+//        HttpPost httpPost = new HttpPost(url);
+//        try{
+//            if(null != strParam){
+//
+//                StringEntity entity = new StringEntity(strParam,"UTF-8");
+//                entity.setContentEncoding("UTF-8");
+//                entity.setContentType("application/json");
+//                httpPost.setEntity(entity);
+//            }
+//            CloseableHttpResponse result1 = client.execute(httpPost);
+//
+//            if (result1.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
+//                try{
+//                    result = EntityUtils.toString(result1.getEntity(),"UTF-8");
+//                }catch (Exception e){
+//                    log.error("post请求提交失败:" + url, e);
+//                }
+//            }
+//
+//        } catch (ClientProtocolException e) {
+//            e.printStackTrace();
+//        } catch (IOException e) {
+//            log.error("post请求提交失败:" + url, e);
+//            e.printStackTrace();
+//        }
+//
+//        return result;
+//
+//    }
 
-        CloseableHttpClient client = HttpClients.createDefault();
-        String  result = null;
-        HttpPost httpPost = new HttpPost(url);
-        try{
-            if(null != strParam){
-
-                StringEntity entity = new StringEntity(strParam,"UTF-8");
-                entity.setContentEncoding("UTF-8");
-                entity.setContentType("application/json");
-                httpPost.setEntity(entity);
-            }
-            CloseableHttpResponse result1 = client.execute(httpPost);
-
-            if (result1.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
-                try{
-                    result = EntityUtils.toString(result1.getEntity(),"UTF-8");
-                }catch (Exception e){
-                    log.error("post请求提交失败:" + url, e);
-                }
-            }
-
-        } catch (ClientProtocolException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            log.error("post请求提交失败:" + url, e);
-            e.printStackTrace();
-        }
-        
-        return result;
-
-    }
-
-    public static String sendPost(String url, String strParam, List<HttpRequestHeaderBean> connectType) throws IOException {
-
-        CloseableHttpClient client = HttpClients.createDefault();
-        String result = null;
-        HttpPost httpPost = new HttpPost(url);
-        try{
-
-                StringEntity entity = new StringEntity(strParam,"UTF-8");
-                entity.setContentEncoding("UTF-8");
-                entity.setContentType("application/json");
-                httpPost.setEntity(entity);
-                for (HttpRequestHeaderBean header : connectType){
-                    httpPost.setHeader(header.getKey(),header.getValue());
-                }
-
-            CloseableHttpResponse result1 = client.execute(httpPost);
-
-            if (result1.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
-                try{
-                    result = EntityUtils.toString(result1.getEntity(),"UTF-8");
-                }catch (Exception e){
-                    log.error("post请求提交失败:" + url, e);
-                }
-            }
-
-        } catch (ClientProtocolException e) {
-            e.printStackTrace();
-        } catch (IOException e) {
-            log.error("post请求提交失败:" + url, e);
-            e.printStackTrace();
-        }
-
-        return result;
-
-    }
+//    public static String sendPost(String url, String data) {
+//        String response = null;
+//        log.info("url: " + url);
+//        log.info("request: " + data);
+//        try {
+//            CloseableHttpClient httpclient = null;
+//            CloseableHttpResponse httpresponse = null;
+//            try {
+//                httpclient = HttpClients.createDefault();
+//                HttpPost httppost = new HttpPost(url);
+//                StringEntity stringentity = new StringEntity(data,
+//                        ContentType.create("text/json", "UTF-8"));
+//                httppost.setEntity(stringentity);
+//                httpresponse = httpclient.execute(httppost);
+//                response = EntityUtils
+//                        .toString(httpresponse.getEntity());
+//                log.info("response: " + response);
+//            } finally {
+//                if (httpclient != null) {
+//                    httpclient.close();
+//                }
+//                if (httpresponse != null) {
+//                    httpresponse.close();
+//                }
+//            }
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+//        return response;
+//    }
 }
