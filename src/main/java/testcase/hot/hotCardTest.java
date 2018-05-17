@@ -1,4 +1,4 @@
-package testcase;
+package testcase.hot;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;
@@ -16,24 +16,17 @@ import java.util.HashMap;
  * @Date: 2018/5/15 11:13
  */
 
-public class YxspHotTest {
+public class hotCardTest {
 
-    public static final Logger log = Logger.getLogger(YxspHotTest.class);
+    public static final Logger log = Logger.getLogger(hotCardTest.class);
 
     @BeforeTest()
-    @DataProvider(name="banner")
-    public Object[][] bannerData(){
-        return ExcelDataUtils.getData("yxsp_hot.xls", "banner");
-    }
     @DataProvider(name="hotCard")
     public Object[][] hotCardData()  {
         return ExcelDataUtils.getData("yxsp_hot.xls", "hotCard");
     }
 
-
-
-
-    @Test(groups = "hot",dataProvider = "hotCard")
+    @Test(dataProvider = "hotCard")
     public void hotCardTest(HashMap<String,String> data) {
         String result = null;
         String url = UrlConstants.YSXP_DEV+data.get("path");

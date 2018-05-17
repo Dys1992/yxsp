@@ -12,7 +12,7 @@ import java.util.Map;
  * @Author: fanyu
  * @Date: 2018/5/17 11:03
  */
-public class AnalysisJson {
+public class AnalysisJsonUtils {
 
     public static List<Object> analysisJson(String str,String assertKey){
         List<Object> list = null;
