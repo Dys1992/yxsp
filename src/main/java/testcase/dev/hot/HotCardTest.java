@@ -1,4 +1,4 @@
-package testcase.hot.master;
+package testcase.dev.hot;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;
@@ -21,17 +21,18 @@ public class HotCardTest {
     public static final Logger log = Logger.getLogger(HotCardTest.class);
 
     @BeforeTest()
-    @DataProvider(name="hotCard_mst")
+    @DataProvider(name="hotCard_dev")
     public Object[][] hotCardData()  {
         return ExcelDataUtils.getData("yxsp_hot.xls", "hotCard");
     }
 
-    @Test(dataProvider = "hotCard_mst")
+    @Test(dataProvider = "hotCard_dev")
     public void hotCardTest(HashMap<String,String> data) {
-        String result = null;
-        String url = UrlConstants.YSXP_MST+data.get("path");
+
+        String url = UrlConstants.YSXP_DEV+data.get("path");
         String param = data.get("body");
-        result = HttpRequestUtils.sendPost(url, param);
+        System.out.println(param);
+        String result = HttpRequestUtils.sendPost(url, param);
 
         log.info("URL:"+url+",入参："+param);
         log.info("返回参数:"+result);

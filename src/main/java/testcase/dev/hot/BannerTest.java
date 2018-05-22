@@ -1,4 +1,4 @@
-package testcase.hot.dev;
+package testcase.dev.hot;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;

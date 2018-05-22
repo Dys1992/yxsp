@@ -3,12 +3,12 @@
 <suite name="Suite1" verbose="1" >
     <test name="hottest_dev">
         <packages>
-            <package name="testcase.hot.dev" />
+            <package name="testcase.dev.*" />
         </packages>
     </test>
     <test name="hottest_mst">
         <packages>
-            <package name="testcase.hot.master" />
+            <package name="testcase.master.*" />
         </packages>
     </test>
 

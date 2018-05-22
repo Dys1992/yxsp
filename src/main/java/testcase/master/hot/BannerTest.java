@@ -1,4 +1,4 @@
-package testcase.hot.master;
+package testcase.master.hot;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;
@@ -28,12 +28,12 @@ public class BannerTest {
 
     @Test(dataProvider = "banner_mst")
     public void bannerTest(HashMap<String,String> data) {
-        String result = null;
+        String result;
         //获取请求的URL
         String path = data.get("path");
         String param = data.get("body");
         String environment = data.get("environment");
-        String url = null;
+        String url;
 
         if (Integer.parseInt(environment) == 1){
 
