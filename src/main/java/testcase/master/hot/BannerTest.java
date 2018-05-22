@@ -22,7 +22,7 @@ public class BannerTest {
     @BeforeTest()
     @DataProvider(name="banner_mst")
     public Object[][] bannerData(){
-        return ExcelDataUtils.getData("yxsp_hot.xls", "banner");
+        return ExcelDataUtils.getData("yxsp_hot_master.xls", "banner");
     }
 
 

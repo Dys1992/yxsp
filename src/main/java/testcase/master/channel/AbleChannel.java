@@ -1,4 +1,4 @@
-package testcase.dev.hot;
+package testcase.master.channel;
 
 import constants.UrlConstants;
 import org.apache.log4j.Logger;
@@ -14,27 +14,27 @@ import static common.JsonAnalyze.getStatus;
 
 /**
  * @Author: fanyu
- * @Date: 2018/5/17 10:48
+ * @Date: 2018/5/22 18:22
  */
-public class BannerTest {
+public class AbleChannel {
+    public static final Logger log = Logger.getLogger(AbleChannel.class);
 
-    public static final Logger log = Logger.getLogger(BannerTest.class);
+    @BeforeTest
+    @DataProvider(name = "ablechannel_mst")
+    public Object[][] ableChannelData(){
 
-    @BeforeTest()
-    @DataProvider(name="banner_dev")
-    public Object[][] bannerData(){
-        return ExcelDataUtils.getData("yxsp_hot_dev.xls", "banner");
+        return ExcelDataUtils.getData("yxsp_channel_master.xls", "AbleChannel");
+
     }
 
+    @Test(dataProvider = "ablechannel_mst")
+    public void ableChannelTest(HashMap<String,String> data) {
 
-    @Test(dataProvider = "banner_dev")
-    public void bannerTest(HashMap<String,String> data) {
-
-        //获取请求的URL
         String path = data.get("path");
         String param = data.get("body");
-        String url = UrlConstants.YSXP_DEV+path;
-        String result = HttpRequestUtils.sendPost(url,param);
+
+        String url = UrlConstants.YSXP_MST+path;
+        String result = HttpRequestUtils.sendPost(url, param);
 
         log.info("返回参数:"+result);
         log.info("URL:"+url+",入参："+param);
@@ -42,6 +42,9 @@ public class BannerTest {
         assert Integer.parseInt(getStatus(result)) == Integer.parseInt(data.get("code"));
 
     }
+
+
+
 
 
 }

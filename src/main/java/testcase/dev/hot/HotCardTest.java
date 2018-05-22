@@ -23,7 +23,7 @@ public class HotCardTest {
     @BeforeTest()
     @DataProvider(name="hotCard_dev")
     public Object[][] hotCardData()  {
-        return ExcelDataUtils.getData("yxsp_hot.xls", "hotCard");
+        return ExcelDataUtils.getData("yxsp_hot_dev.xls", "hotCard");
     }
 
     @Test(dataProvider = "hotCard_dev")
