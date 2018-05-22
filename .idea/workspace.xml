@@ -4,30 +4,9 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06338d70-d70e-4c29-bb1e-28e4cf054430" name="Default" comment="fy39919">
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcase/dev/channel/AbleChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcase/dev/channel/SearchNewTownChannelListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcase/master/channel/AbleChannel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/testcase/master/channel/SearchNewTownChannelListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tempfile/yxsp_channel_dev.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tempfile/yxsp_channel_master.xls" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tempfile/yxsp_hot_master.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/fy399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/fy399.xml" afterDir="false" />
+    <list default="true" id="06338d70-d70e-4c29-bb1e-28e4cf054430" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/master/hot/BannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/master/hot/BannerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/master/hot/HotCardTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/master/hot/HotCardTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tempfile/yxsp_hot.xls" beforeDir="false" afterPath="$PROJECT_DIR$/src/tempfile/yxsp_hot_dev.xls" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean/Exec.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/bean/IsCollected.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/JsonAnalyze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/JsonAnalyze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/UrlConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constants/UrlConstants.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/log4j.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/warn.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/yxsp.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,77 +22,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchNewTownChannelListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/channel/SearchNewTownChannelListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbleChannel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/AbleChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="25" column="58" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchNewTownChannelListTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/SearchNewTownChannelListTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BannerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/BannerTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HotCardTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/HotCardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AbleChannel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/channel/AbleChannel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yxsp.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="BannerTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
-              <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="220">
+              <caret line="42" selection-start-line="42" selection-end-line="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yxsp-dev.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-dev.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yxsp-master.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-master.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -121,8 +52,8 @@
       <file leaf-file-name="HotCardTest.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="450">
+              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -152,8 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/common/AssemblyParameters.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Imp/DataAssembly.java" />
         <option value="$PROJECT_DIR$/src/main/java/Imp/DataAssemblyImp/DataAssembly.java" />
         <option value="$PROJECT_DIR$/src/main/java/bean/IsCollectedBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/Imp/DataAssemblyImp/ParamAssembling.java" />
@@ -203,6 +132,8 @@
         <option value="$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/master/channel/AbleChannel.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/yxsp-dev.xml" />
+        <option value="$PROJECT_DIR$/src/main/resources/yxsp-master.xml" />
       </list>
     </option>
   </component>
@@ -224,7 +155,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="94" />
+    <option name="x" value="93" />
     <option name="y" value="252" />
     <option name="width" value="2835" />
     <option name="height" value="1314" />
@@ -235,6 +166,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -277,7 +209,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="AndroidView" />
     </panes>
@@ -334,18 +265,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml">
-    <configuration name="AnalysisJsonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.AnalysisJsonUtils" />
-      <module name="yxspAuto" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="util.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="TestNG.D:/yxspAuto/src/main/resources/yxsp-master.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -394,22 +314,39 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="BannerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="D:/yxspAuto/src/main/resources/yxsp-dev.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yxspAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcase.hot.dev.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testcase.hot" />
-      <option name="MAIN_CLASS_NAME" value="testcase.hot.dev.BannerTest" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/yxsp-dev.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="D:/yxspAuto/src/main/resources/yxsp-master.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yxspAuto" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/yxsp-master.xml" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -499,18 +436,18 @@
     </configuration>
     <list>
       <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml" />
-      <item itemvalue="Application.AnalysisJsonUtils" />
-      <item itemvalue="TestNG.BannerTest" />
       <item itemvalue="TestNG.SearchNewTownChannelListTest" />
       <item itemvalue="TestNG.AbleChannel" />
+      <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp-dev.xml" />
+      <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp-master.xml" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp-master.xml" />
+        <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp-dev.xml" />
         <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml" />
         <item itemvalue="TestNG.AbleChannel" />
         <item itemvalue="TestNG.SearchNewTownChannelListTest" />
-        <item itemvalue="TestNG.BannerTest" />
-        <item itemvalue="Application.AnalysisJsonUtils" />
       </list>
     </recent_temporary>
   </component>
@@ -539,7 +476,8 @@
       <workItem from="1526521034694" duration="18914000" />
       <workItem from="1526958461086" duration="4300000" />
       <workItem from="1526976236582" duration="601000" />
-      <workItem from="1526982129053" duration="4637000" />
+      <workItem from="1526982129053" duration="4802000" />
+      <workItem from="1526986996443" duration="44000" />
     </task>
     <task id="LOCAL-00001" summary="fy39919">
       <created>1526523043493</created>
@@ -590,7 +528,14 @@
       <option name="project" value="LOCAL" />
       <updated>1526984214910</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="fy39919">
+      <created>1526986799695</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1526986799695</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -626,7 +571,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94350000" />
+    <option name="totallyTimeSpent" value="94559000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,11 +584,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285124" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.21326165" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -651,13 +594,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.29032257" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.1827957" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33791432" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34357315" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.20430107" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info id="UI Designer" order="2" />
@@ -670,37 +612,39 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.20430107" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.21326165" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Database" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40681005" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27890056" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285124" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40681005" />
       <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.6622296" weight="0.281362" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27890056" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.039426524" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291592" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33777037" side_tool="true" weight="0.28305784" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.039426524" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33777037" side_tool="true" weight="0.28305784" />
       <window_info id="Capture Tool" order="5" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Image Layers" order="2" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="Favorites" order="6" side_tool="true" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -723,6 +667,20 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ExcelData/IsCollectedData.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/logs/info.log">
       <provider selected="true" editor-type-id="text-editor">
@@ -738,13 +696,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Exec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/Exec.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/bean/mobile/hot/HotCard.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="665">
@@ -824,40 +776,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/BannerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/HotCardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/BannerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="50" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/HotCardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/BannerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/HotCardTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/BannerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/HotCardTest.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -879,17 +801,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/IsCollected.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding>
-            <element signature="e#278#279#0" expanded="true" />
-            <element signature="e#301#302#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/IsCollected.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
@@ -939,36 +851,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/master/HotCardTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/master/BannerTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/dev/BannerTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/dev/HotCardTest.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+        <state relative-caret-position="450">
+          <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/AbleChannel.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="25" column="58" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/SearchNewTownChannelListTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
+        <state relative-caret-position="123">
+          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -979,17 +872,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/HotCardTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/SearchNewTownChannelListTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        <state relative-caret-position="150">
+          <caret line="24" column="58" selection-start-line="24" selection-start-column="58" selection-end-line="24" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/channel/AbleChannel.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
-          <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="221">
+          <caret line="25" column="58" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="58" />
         </state>
       </provider>
     </entry>
@@ -997,9 +890,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="31">
           <caret line="30" column="16" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/master/hot/HotCardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>
@@ -1010,10 +907,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-dev.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-master.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
