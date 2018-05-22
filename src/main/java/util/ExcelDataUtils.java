@@ -26,10 +26,15 @@ import static org.apache.poi.ss.usermodel.Cell.*;
 public class ExcelDataUtils {
     public static final Logger log = Logger.getLogger(ExcelDataUtils.class);
 
-    public static Object[][] getData(String fileName,String name){
-        ArrayList<String> arrkey = new ArrayList<String>();
+    /**
+     * 解析excel，获取请求参数，断言code
+     * @param fileName 文件名
+     * @param sheetName sheet名
+     */
+    public static Object[][] getData(String fileName,String sheetName){
+        ArrayList<String> arrarykey = new ArrayList<>();
         Workbook workbook = getWorkbook(FilePathConstants.EXCEL_PATH+fileName);
-        Sheet sheet = workbook.getSheet(name);
+        Sheet sheet = workbook.getSheet(sheetName);
         int rowTotalNum = sheet.getLastRowNum()+1;
         int columns = sheet.getRow(0).getPhysicalNumberOfCells();
 
@@ -46,14 +51,14 @@ public class ExcelDataUtils {
         //获取首行列名
         for (int c = 0; c < columns ; c++){
             String cellValue = getCellValue(sheet,0,c);
-            arrkey.add(cellValue);
+            arrarykey.add(cellValue);
         }
 
         //遍历单元格值
         for(int r = 1;r < rowTotalNum ; r++) {
             for (int c = 0; c <columns ; c ++){
                 String cellValue = getCellValue(sheet,r,c);
-                map[r-1][0].put(arrkey.get(c),cellValue);
+                map[r-1][0].put(arrarykey.get(c),cellValue);
             }
         }
 
@@ -61,6 +66,10 @@ public class ExcelDataUtils {
 
     }
 
+    /**
+     * 根据excel文件名，来解析xls，xlsx，xlsm
+     * @param filePath 文件路径
+     * */
     private static Workbook getWorkbook(String filePath){
         Workbook wb = null;
         try {
@@ -77,6 +86,14 @@ public class ExcelDataUtils {
         return wb;
     }
 
+
+    /**
+     * 获取单元格的值
+     * @param sheet sheet
+     * @param rowNum excel行
+     * @param cellNum excel列
+     * @return cell值
+     */
     private static String getCellValue(Sheet sheet, int rowNum, int cellNum) {
         HSSFCell cell = (HSSFCell) sheet.getRow(rowNum).getCell(cellNum);
         return getValue(cell);
