@@ -1,4 +1,4 @@
-package testcase.hot;
+package testcase.hot.dev;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;
@@ -16,30 +16,26 @@ import java.util.HashMap;
  * @Date: 2018/5/15 11:13
  */
 
-public class hotCardTest {
+public class HotCardTest {
 
-    public static final Logger log = Logger.getLogger(hotCardTest.class);
+    public static final Logger log = Logger.getLogger(HotCardTest.class);
 
     @BeforeTest()
-    @DataProvider(name="hotCard")
+    @DataProvider(name="hotCard_dev")
     public Object[][] hotCardData()  {
         return ExcelDataUtils.getData("yxsp_hot.xls", "hotCard");
     }
 
-    @Test(dataProvider = "hotCard")
+    @Test(dataProvider = "hotCard_dev")
     public void hotCardTest(HashMap<String,String> data) {
-        String result = null;
+
         String url = UrlConstants.YSXP_DEV+data.get("path");
         String param = data.get("body");
         System.out.println(param);
-        String environment = data.get("environment");
+        String result = HttpRequestUtils.sendPost(url, param);
 
-        if(Integer.parseInt(environment) == 0){
-            result = HttpRequestUtils.sendPost(url, param);
-        }
         log.info("URL:"+url+",入参："+param);
         log.info("返回参数:"+result);
-
 
         assert Integer.parseInt(JsonAnalyze.getStatus(result))==Integer.parseInt(data.get("code"));
     }

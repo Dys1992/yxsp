@@ -1,9 +1,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
 
 <suite name="Suite1" verbose="1" >
-    <test name="hottest">
+    <test name="hottest_dev">
         <packages>
-            <package name="testcase.hot" />
+            <package name="testcase.hot.dev" />
         </packages>
     </test>
+    <test name="hottest_mst">
+        <packages>
+            <package name="testcase.hot.master" />
+        </packages>
+    </test>
+
 </suite>

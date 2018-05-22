@@ -1,4 +1,4 @@
-package testcase.hot;
+package testcase.hot.master;
 
 import common.JsonAnalyze;
 import constants.UrlConstants;
@@ -15,18 +15,18 @@ import java.util.HashMap;
  * @Author: fanyu
  * @Date: 2018/5/17 10:48
  */
-public class bannerTest {
+public class BannerTest {
 
-    public static final Logger log = Logger.getLogger(bannerTest.class);
+    public static final Logger log = Logger.getLogger(BannerTest.class);
 
     @BeforeTest()
-    @DataProvider(name="banner")
+    @DataProvider(name="banner_mst")
     public Object[][] bannerData(){
         return ExcelDataUtils.getData("yxsp_hot.xls", "banner");
     }
 
 
-    @Test(dataProvider = "banner")
+    @Test(dataProvider = "banner_mst")
     public void bannerTest(HashMap<String,String> data) {
         String result = null;
         //获取请求的URL
@@ -35,12 +35,13 @@ public class bannerTest {
         String environment = data.get("environment");
         String url = null;
 
-        if (Integer.parseInt(environment) == 0){
+        if (Integer.parseInt(environment) == 1){
 
             url = UrlConstants.YSXP_DEV+path;
             result = HttpRequestUtils.sendPost(url, param);
         }else{
-
+            url = UrlConstants.YSXP_MST+path;
+            result = HttpRequestUtils.sendPost(url,param);
 
         }
 
