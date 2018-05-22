@@ -5,30 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06338d70-d70e-4c29-bb1e-28e4cf054430" name="Default" comment="fy39919">
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/fy399.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/fy399.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testng-output/build.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bean/Exec.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bean/IsCollected.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/constants/UrlConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/constants/UrlConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/util/HttpUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/HttpUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tempfile/IsCollected.xls" beforeDir="false" afterPath="$PROJECT_DIR$/src/tempfile/IsCollected.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/common/JsonAnalyze.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/JsonAnalyze.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/constants/UrlConstants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/constants/UrlConstants.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/debug.log_2018-04-18.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/error.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/info.log_2018-04-18.log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/logs/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/warn.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/testcase/CollectionTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/ExcelUtils.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/HttpUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/util/HttpUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/util/HttpUtils.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,48 +36,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="YxspHotTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java">
+      <file leaf-file-name="AnalysisJsonUtils.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="116">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-              <folding>
-                <element signature="e#558#559#0" expanded="true" />
-                <element signature="e#629#630#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
-                <element signature="e#774#775#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="290">
+              <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JsonAnalyze.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HttpUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcelDataUtils.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ExcelDataUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#852#860#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="-1566">
+              <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
             </state>
           </provider>
         </entry>
@@ -94,8 +57,8 @@
       <file leaf-file-name="HttpRequestUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
+            <state relative-caret-position="1073">
+              <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -103,17 +66,17 @@
       <file leaf-file-name="DateUtils.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
+            <state relative-caret-position="55">
               <caret line="27" column="42" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+      <file leaf-file-name="log4j.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+            <state relative-caret-position="986">
+              <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -121,17 +84,35 @@
       <file leaf-file-name="UrlConstants.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/constants/UrlConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="29">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="yxsp.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
+      <file leaf-file-name="FilePathConstants.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+            <state relative-caret-position="203">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BannerList.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/bean/mobile/hot/BannerList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="725">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JsonAnalyze.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="461">
+              <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -143,8 +124,8 @@
       <list>
         <option value="Interface" />
         <option value="Tag Library Descriptor" />
-        <option value="Class" />
         <option value="TestNG Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -152,6 +133,7 @@
     <findStrings>
       <find>testng</find>
       <find>maven-surefire-plugin</find>
+      <find>footImgMweb</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -162,7 +144,6 @@
       <list>
         <option value="E:/apache-maven-3.5.3/conf/settings.xml" />
         <option value="$PROJECT_DIR$/src/main/java/util/DataUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
         <option value="$PROJECT_DIR$/src/main/java/bean/HttpHeaderBean/httpRequestHeaderBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/bean/httpheaderbean/httpRequestHeaderBean.java" />
         <option value="$PROJECT_DIR$/src/main/java/bean/httpheaderbean/HttpRequestHeaderBean.java" />
@@ -170,7 +151,6 @@
         <option value="$PROJECT_DIR$/src/main/java/util/xmlUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/DateUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/XmlUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/IsCollectedTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/common/AssemblyParameters.java" />
         <option value="$PROJECT_DIR$/src/main/java/Imp/DataAssembly.java" />
@@ -186,20 +166,32 @@
         <option value="$PROJECT_DIR$/src/main/java/common/baseCase.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/bannerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java" />
-        <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/BannerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/testcase/YxspHot.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" />
         <option value="$PROJECT_DIR$/src/test/java/util/ExcelDataUtilsTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/constants/UrlConstants.java" />
         <option value="$PROJECT_DIR$/target/classes/src/main/java/util/ExcelDataUtils.java" />
         <option value="$PROJECT_DIR$/src/main/java/yxsp.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/HttpUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/hotCardTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/util/AnalysisJson.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test.java" />
         <option value="$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/bannerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/dev/bannerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/master/BannerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/master/HotCardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/dev/HotCardTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/yxsp.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/testcase/hot/dev/BannerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constants/UrlConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java" />
+        <option value="$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java" />
       </list>
     </option>
   </component>
@@ -221,8 +213,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-11" />
-    <option name="y" value="82" />
+    <option name="x" value="63" />
+    <option name="y" value="168" />
     <option name="width" value="1890" />
     <option name="height" value="876" />
   </component>
@@ -255,13 +247,85 @@
               <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="httpheaderbean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="bean" type="462c0819:PsiDirectoryNode" />
+              <item name="httpparambean" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="constants" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
               <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="tempfile" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="testng-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yxspAuto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yxspAuto" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -284,24 +348,25 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="util" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\yxspAuto\src\main\resources" />
-      <recent name="D:\yxspAuto" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Imp.DataAssemblyImp" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\yxspAuto\src\main\java\testcase\hot\master" />
       <recent name="D:\yxspAuto" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="Imp.DataAssemblyImp" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\yxspAuto\src\main\resources" />
+      <recent name="D:\yxspAuto" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -316,9 +381,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.YxspHotTest">
-    <configuration name="ExcelDataUtilsTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="util.ExcelDataUtilsTest" />
+  <component name="RunManager" selected="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml">
+    <configuration name="AnalysisJsonUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="util.AnalysisJsonUtils" />
       <module name="yxspAuto" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -329,6 +394,11 @@
       </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="yxspAuto" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -347,103 +417,74 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="D:/yxspAuto/src/main/java/yxsp.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="BannerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yxspAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcase.hot.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="testcase.hot" />
+      <option name="MAIN_CLASS_NAME" value="testcase.hot.dev.BannerTest" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="BannerTest.bannerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="yxspAuto" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcase.hot.dev.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="testcase.hot" />
+      <option name="MAIN_CLASS_NAME" value="testcase.hot.dev.BannerTest" />
+      <option name="METHOD_NAME" value="bannerTest" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="yxspAuto" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/yxsp.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/yxsp.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="SUITE" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="YxspHotTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yxspAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testcase" />
-      <option name="MAIN_CLASS_NAME" value="testcase.YxspHotTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="YxspHotTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yxspAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testcase" />
-      <option name="MAIN_CLASS_NAME" value="testcase.YxspHotTest" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <configuration name="YxspHotTest.bannerTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="yxspAuto" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testcase.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="testcase" />
-      <option name="MAIN_CLASS_NAME" value="testcase.YxspHotTest" />
-      <option name="METHOD_NAME" value="bannerTest" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -480,19 +521,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.YxspHotTest.bannerTest" />
-      <item itemvalue="TestNG.YxspHotTest" />
-      <item itemvalue="Application.ExcelDataUtilsTest" />
-      <item itemvalue="TestNG.YxspHotTest (1)" />
-      <item itemvalue="TestNG.D:/yxspAuto/src/main/java/yxsp.xml" />
+      <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml" />
+      <item itemvalue="Application.AnalysisJsonUtils" />
+      <item itemvalue="Application.test" />
+      <item itemvalue="TestNG.BannerTest.bannerTest" />
+      <item itemvalue="TestNG.BannerTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.YxspHotTest" />
-        <item itemvalue="TestNG.D:/yxspAuto/src/main/java/yxsp.xml" />
-        <item itemvalue="TestNG.YxspHotTest (1)" />
-        <item itemvalue="TestNG.YxspHotTest.bannerTest" />
-        <item itemvalue="Application.ExcelDataUtilsTest" />
+        <item itemvalue="TestNG.D:/yxspAuto/src/main/resources/yxsp.xml" />
+        <item itemvalue="TestNG.BannerTest" />
+        <item itemvalue="Application.AnalysisJsonUtils" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="TestNG.BannerTest.bannerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -518,44 +559,83 @@
       <workItem from="1525687593079" duration="19000" />
       <workItem from="1526351485661" duration="16686000" />
       <workItem from="1526433965551" duration="14315000" />
-      <workItem from="1526521034694" duration="1982000" />
+      <workItem from="1526521034694" duration="18914000" />
+      <workItem from="1526958461086" duration="4300000" />
+      <workItem from="1526976236582" duration="601000" />
+      <workItem from="1526982129053" duration="1035000" />
     </task>
+    <task id="LOCAL-00001" summary="fy39919">
+      <created>1526523043493</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1526523043493</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fy39919">
+      <created>1526552006624</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1526552006625</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fy39919">
+      <created>1526552045613</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1526552045613</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fy39919">
+      <created>1526960618644</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1526960618644</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fy39919">
+      <created>1526982178461</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1526982178462</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 13m 06s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="bannerTest_bannerTest - 2018.05.17 at 17h 28m 07s.xml">
+      <configuration name="bannerTest.bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 13m 45s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="bannerTest_bannerTest - 2018.05.17 at 17h 29m 48s.xml">
+      <configuration name="bannerTest.bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 19m 12s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="bannerTest_bannerTest - 2018.05.17 at 17h 30m 24s.xml">
+      <configuration name="bannerTest.bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 21m 23s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="bannerTest_bannerTest - 2018.05.17 at 17h 31m 00s.xml">
+      <configuration name="bannerTest.bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 22m 17s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="bannerTest_bannerTest - 2018.05.17 at 17h 31m 31s.xml">
+      <configuration name="bannerTest.bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.16 at 17h 23m 00s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.17 at 17h 32m 41s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__yxspAuto_src_main_java_yxsp_xml - 2018.05.16 at 17h 53m 53s.xml">
-      <configuration name="D:/yxspAuto/src/main/java/yxsp.xml" configurationId="TestNG" />
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.17 at 18h 14m 29s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__yxspAuto_src_main_java_yxsp_xml - 2018.05.16 at 17h 57m 35s.xml">
-      <configuration name="D:/yxspAuto/src/main/java/yxsp.xml" configurationId="TestNG" />
+    <history-entry file="bannerTest - 2018.05.22 at 11h 46m 27s.xml">
+      <configuration name="bannerTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="D__yxspAuto_src_main_java_yxsp_xml - 2018.05.16 at 18h 01m 16s.xml">
-      <configuration name="D:/yxspAuto/src/main/java/yxsp.xml" configurationId="TestNG" />
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.22 at 11h 58m 36s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="YxspHotTest - 2018.05.17 at 10h 05m 37s.xml">
-      <configuration name="YxspHotTest" configurationId="TestNG" />
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.22 at 13h 28m 19s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67880000" />
+    <option name="totallyTimeSpent" value="90748000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -567,12 +647,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285124" />
-      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.28673837" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.20392585" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -580,11 +660,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4516129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.54480284" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.283751" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28837952" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
@@ -598,38 +678,38 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.13620071" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="6" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40681005" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27890056" />
+      <window_info id="Image Layers" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285124" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Inspection Results" order="12" sideWeight="0.6622296" weight="0.281362" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32616487" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27890056" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.039426524" />
-      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291592" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.33777037" side_tool="true" weight="0.28305784" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32616487" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +724,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="antWorkspaceConfiguration">
@@ -652,49 +732,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/constants/UrlConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1254">
-          <caret line="66" column="60" selection-start-line="66" selection-start-column="60" selection-end-line="66" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="874">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExcelData/IsCollectedData.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -723,20 +760,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -774,46 +799,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-            <element signature="e#602#603#0" expanded="true" />
-            <element signature="e#632#633#0" expanded="true" />
-            <element signature="e#670#671#0" expanded="true" />
-            <element signature="e#704#705#0" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#804#805#0" expanded="true" />
-            <element signature="e#834#835#0" expanded="true" />
-            <element signature="e#863#864#0" expanded="true" />
-            <element signature="e#904#905#0" expanded="true" />
-            <element signature="e#940#941#0" expanded="true" />
-            <element signature="e#968#969#0" expanded="true" />
-            <element signature="e#995#996#0" expanded="true" />
-            <element signature="e#1032#1033#0" expanded="true" />
-            <element signature="e#1064#1065#0" expanded="true" />
-            <element signature="e#1098#1099#0" expanded="true" />
-            <element signature="e#1128#1129#0" expanded="true" />
-            <element signature="e#1174#1175#0" expanded="true" />
-            <element signature="e#1212#1213#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/IsCollected.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="39" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
-          <folding>
-            <element signature="e#469#470#0" expanded="true" />
-            <element signature="e#495#496#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="53" lean-forward="true" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -832,13 +817,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/constants/requestsConstants.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/bean/mobile/hot/BannerList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="64" lean-forward="true" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/common/baseCase.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.13.1/testng-6.13.1.jar!/org/testng/SuiteRunnerWorker.class">
       <provider selected="true" editor-type-id="text-editor">
@@ -861,27 +839,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="16" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1197">
-          <caret line="63" column="62" lean-forward="true" selection-start-line="63" selection-start-column="62" selection-end-line="63" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/CollectionTest.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/util/ExcelDataUtilsTest.java" />
     <entry file="file://$PROJECT_DIR$/target/classes/src/test/java/util/ExcelDataUtilsTest.java" />
     <entry file="file://$PROJECT_DIR$/target/test-classes/test.class">
@@ -892,84 +850,156 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/src/main/java/util/ExcelDataUtils.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="182">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/target/classes/src/main/java/testcase/YxspHotTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.13.1/testng-6.13.1.jar!/com/beust/testng/TestNG.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="27" column="42" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/constants/UrlConstants.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret line="2" column="34" lean-forward="true" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="23" column="46" selection-start-line="23" selection-start-column="46" selection-end-line="23" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/YxspHotTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="116">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
-          <folding>
-            <element signature="e#558#559#0" expanded="true" />
-            <element signature="e#629#630#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-            <element signature="e#774#775#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="93">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="115" column="9" selection-start-line="115" selection-start-column="9" selection-end-line="115" selection-end-column="9" />
+        <state relative-caret-position="-54">
+          <caret line="125" column="35" selection-start-line="125" selection-start-column="35" selection-end-line="125" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.7/fastjson-1.2.7.jar!/com/alibaba/fastjson/JSONArray.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelUtils.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/BannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/HotCardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/master/BannerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/hot/dev/HotCardTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="29" column="16" selection-start-line="29" selection-start-column="16" selection-end-line="29" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="89" column="7" lean-forward="true" selection-start-line="89" selection-start-column="7" selection-end-line="89" selection-end-column="7" />
+        <state relative-caret-position="-1566">
+          <caret line="55" lean-forward="true" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/HttpRequestUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1073">
+          <caret line="57" column="32" lean-forward="true" selection-start-line="57" selection-start-column="32" selection-end-line="57" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constants/UrlConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/IsCollected.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="431">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#852#860#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/constants/FilePathConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/bean/mobile/hot/BannerList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/testng-output/build.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/common/JsonAnalyze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/DateUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="27" column="42" selection-start-line="27" selection-start-column="32" selection-end-line="27" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="15" column="2" lean-forward="true" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
         </state>
       </provider>
     </entry>

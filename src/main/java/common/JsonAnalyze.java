@@ -12,6 +12,11 @@ public class JsonAnalyze {
 
     private static final Logger log = Logger.getLogger(JsonAnalyze.class);
 
+
+    /***
+     * @param str json字符串
+     * 解析返回的code
+     */
     public static String getStatus(String str) {
         String status = null;
         if (str != null) {
@@ -25,13 +30,5 @@ public class JsonAnalyze {
 
         return status;
     }
-
-    public static String getAssert(String str){
-
-
-        return "";
-    }
-
-
 
 }

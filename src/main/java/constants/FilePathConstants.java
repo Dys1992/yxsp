@@ -4,6 +4,8 @@ package constants;/**
  */
 
 public class FilePathConstants {
+
+    /**Excel路径*/
     public static final String EXCEL_PATH = "./src/tempfile/";
 
 }
