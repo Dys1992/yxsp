@@ -26,6 +26,13 @@ import static org.apache.poi.ss.usermodel.Cell.*;
 public class ExcelDataUtils {
     public static final Logger log = Logger.getLogger(ExcelDataUtils.class);
 
+    /***
+     *私有构造方法
+     */
+    private ExcelDataUtils(){
+
+    }
+
     /**
      * 解析excel，获取请求参数，断言code
      * @param fileName 文件名

@@ -22,11 +22,18 @@ public class HttpRequestUtils {
 
     public static final Logger log = Logger.getLogger(HttpRequestUtils.class);
 
+    /**
+     * 私有构造方法
+     * */
+    private HttpRequestUtils(){
+
+    }
+
     private static RequestConfig requestConfig;
 
-    /*
+    /**
     * 配置超时时间
-    * */
+    */
     static {
         requestConfig = RequestConfig.custom().setSocketTimeout(2000).setConnectionRequestTimeout(2000).build();
     }
@@ -104,5 +111,7 @@ public class HttpRequestUtils {
 
         return result;
     }
+
+    
 
 }
