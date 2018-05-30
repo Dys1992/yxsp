@@ -1,134 +1,32 @@
-2018-05-22 18:00:08 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:38) ]
+2018-05-30 10:19:40 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
-2018-05-22 18:00:08 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:19:40 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:38) ]
+2018-05-30 10:19:41 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:19:41 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:38) ]
+2018-05-30 10:19:41 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.BannerTest >> Method: testcase.hot.dev.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:19:41 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.HotCardTest >> Method: testcase.hot.dev.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
  "appVersion": "0.3.3",
  "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.dev.HotCardTest >> Method: testcase.hot.dev.HotCardTest.hotCardTest(HotCardTest.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:00:09 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:00:09 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:00:09 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:00:10 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:00:10 下午 [Thread: main][ Class:testcase.hot.master.BannerTest >> Method: testcase.hot.master.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:00:10 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:00:10 下午 [Thread: main][ Class:testcase.hot.master.HotCardTest >> Method: testcase.hot.master.HotCardTest.hotCardTest(HotCardTest.java:36) ]
-INFO:URL:https://dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
  "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 18:00:10 下午 [Thread: main][ Class:testcase.hot.master.HotCardTest >> Method: testcase.hot.master.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:返回参数:null
-2018-05-22 18:00:10 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:38) ]
-INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:38) ]
-INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
  "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
 }
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:15:43 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:43 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:44 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:15:44 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:36) ]
-INFO:URL:https://dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 18:15:44 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:返回参数:null
-2018-05-22 18:15:44 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:37:07 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.bannerTest(SearchNewTownChannelListTest.java:39) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
 INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
-2018-05-22 18:37:07 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.bannerTest(SearchNewTownChannelListTest.java:40) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
  "uid": "20070",
@@ -139,68 +37,22 @@ INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参�
  "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
 }
 
-2018-05-22 18:49:32 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.bannerTest(AbleChannel.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
-2018-05-22 18:49:32 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.bannerTest(AbleChannel.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 18:50:32 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
-2018-05-22 18:50:32 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 18:52:10 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
-2018-05-22 18:52:10 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uid": "20070",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+2018-05-30 10:20:18 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+2018-05-30 10:20:19 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
 INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+2018-05-30 10:20:19 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+2018-05-30 10:20:19 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
 INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
  "clientId": "jc_youxiang_app",
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
@@ -211,11 +63,219 @@ INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
  "page": 0,
  "size": "1"
 }
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
+2018-05-30 10:20:19 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
 INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+2018-05-30 10:23:01 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
+2018-05-30 10:23:01 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uid": "20070",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
+ "clientId": "jc_youxiang_app",
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "accessToken": "93b4673ce823416db1e1df4c012839c2",
+ "page": 0,
+ "size": "1"
+}
+2018-05-30 10:23:02 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uid": "20070",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
+2018-05-30 10:23:44 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
+ "clientId": "jc_youxiang_app",
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "accessToken": "93b4673ce823416db1e1df4c012839c2",
+ "page": 0,
+ "size": "1"
+}
+2018-05-30 10:23:45 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
+2018-05-30 10:24:51 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
+2018-05-30 10:24:51 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uid": "20070",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
+ "clientId": "jc_youxiang_app",
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "accessToken": "93b4673ce823416db1e1df4c012839c2",
+ "page": 0,
+ "size": "1"
+}
+2018-05-30 10:24:52 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
+2018-05-30 10:29:32 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
+2018-05-30 10:29:32 上午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+2018-05-30 10:29:32 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
+2018-05-30 10:29:32 上午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uid": "20070",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
+INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
+ "clientId": "jc_youxiang_app",
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "accessToken": "93b4673ce823416db1e1df4c012839c2",
+ "page": 0,
+ "size": "1"
+}
+2018-05-30 10:29:33 上午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
+INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
 INFO:返回参数:null
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:40) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:40) ]
 INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
  "appVersion": "0.3.3",
@@ -224,11 +284,11 @@ INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
  "clientId": "jc_youxiang_app",
  "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
 }
-2018-05-22 18:52:11 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:39) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:39) ]
 INFO:返回参数:null
-2018-05-22 18:52:11 下午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
 INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
  "uid": "20070",
@@ -239,30 +299,30 @@ INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
  "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
 }
 
-2018-05-22 18:52:11 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
 INFO:返回参数:null
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
 INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:12 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
 INFO:返回参数:null
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
 INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:12 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:43 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
 INFO:返回参数:null
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
 INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
 
-2018-05-22 18:52:12 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:36) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:36) ]
 INFO:URL:https://dxapi.youxiang0210.com/mobile/hotCard,入参：{
  "clientId": "jc_youxiang_app",
  "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
@@ -273,175 +333,7 @@ INFO:URL:https://dxapi.youxiang0210.com/mobile/hotCard,入参：{
  "page": 0,
  "size": "1"
 }
-2018-05-22 18:52:12 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
 INFO:返回参数:null
-2018-05-22 18:52:12 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
+2018-05-30 10:29:44 上午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
 ERROR:返回参数为空
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uid": "20070",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 18:58:19 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
-INFO:返回参数:null
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.channel.AbleChannel >> Method: testcase.master.channel.AbleChannel.ableChannelTest(AbleChannel.java:40) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 18:58:20 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:39) ]
-INFO:返回参数:null
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.channel.SearchNewTownChannelListTest >> Method: testcase.master.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uid": "20070",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-
-2018-05-22 18:58:20 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:20 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:20 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:48) ]
-INFO:返回参数:null
-2018-05-22 18:58:20 下午 [Thread: main][ Class:testcase.master.hot.BannerTest >> Method: testcase.master.hot.BannerTest.bannerTest(BannerTest.java:49) ]
-INFO:URL:https://dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 18:58:20 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 18:58:21 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:36) ]
-INFO:URL:https://dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 18:58:21 下午 [Thread: main][ Class:testcase.master.hot.HotCardTest >> Method: testcase.master.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:返回参数:null
-2018-05-22 18:58:21 下午 [Thread: main][ Class:common.JsonAnalyze >> Method: common.JsonAnalyze.getStatus(JsonAnalyze.java:28) ]
-ERROR:返回参数为空
-2018-05-22 19:04:07 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":18,"name":"娱乐","sort":2000,"enable":1,"imageId":55170,"onImageId":55171,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":20,"name":"综艺","sort":3000,"enable":1,"imageId":176493,"onImageId":176494,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":1,"name":"电视剧","sort":4000,"enable":1,"imageId":7668,"onImageId":7670,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":17,"name":"资讯","sort":5000,"enable":1,"imageId":52803,"onImageId":52804,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":22,"name":"电影","sort":6000,"enable":1,"imageId":292003,"onImageId":292004,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":19,"name":"原创","sort":7000,"enable":1,"imageId":155216,"onImageId":155217,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":33,"name":"体育","sort":8000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":34,"name":"游戏","sort":9000,"enable":1,"imageId":null,"onImageId":null,"bannerOn":0,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":13,"name":"少儿","sort":10000,"enable":1,"imageId":12483,"onImageId":12484,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null},{"id":12,"name":"音乐","sort":11000,"enable":1,"imageId":8980,"onImageId":8981,"bannerOn":1,"pid":0,"imageUrl":null,"onImageUrl":null}]}
-2018-05-22 19:04:07 下午 [Thread: main][ Class:testcase.dev.channel.AbleChannel >> Method: testcase.dev.channel.AbleChannel.ableChannelTest(AbleChannel.java:39) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannel,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-2018-05-22 19:04:07 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:40) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"enable":1,"name":"浙江","bannerOn":1,"pid":24,"id":25,"sort":0},{"enable":1,"name":"江苏","bannerOn":1,"pid":24,"id":26,"sort":1},{"enable":1,"name":"河南","bannerOn":0,"pid":24,"id":31,"sort":2},{"enable":1,"name":"贵州","bannerOn":1,"pid":24,"id":29,"sort":3},{"enable":1,"name":"湖北","bannerOn":0,"pid":24,"id":30,"sort":4},{"enable":1,"name":"湖南","bannerOn":1,"pid":24,"id":27,"sort":5},{"enable":1,"name":"吉林","bannerOn":0,"pid":24,"id":28,"sort":6},{"enable":1,"name":"安徽","bannerOn":0,"pid":24,"id":32,"sort":7},{"enable":1,"name":"天津","bannerOn":0,"pid":24,"id":46,"sort":9},{"enable":1,"name":"北京","bannerOn":0,"pid":24,"id":47,"sort":10},{"enable":1,"name":"上海","bannerOn":0,"pid":24,"id":48,"sort":11}]}
-2018-05-22 19:04:07 下午 [Thread: main][ Class:testcase.dev.channel.SearchNewTownChannelListTest >> Method: testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest(SearchNewTownChannelListTest.java:41) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/ableChannelSecond,入参：{
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uid": "20070",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "clientId": "jc_youxiang_app",
- "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
-}
-
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":[{"id":233,"title":"《城市老味》：苏式暖锅","secondTitle":"围炉聚炊欢呼处 百味消融小釜中","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2391676646884352&videoDetailId=d2520262494848000","imageId":556489,"sort":7300,"channelId":0,"gmtCreated":1512619080000,"gmtModified":1512619080000,"imageUrl":"back-1515638466875-HwYiOswqdU"},{"id":245,"title":"有象视频拍客计划火热进行中","secondTitle":"用镜头定格城市记忆 千万奖金等着你！","schemeUrl":"https://activity.youxiang0210.com/pai/app.html","imageId":464590,"sort":7600,"channelId":0,"gmtCreated":1513905171000,"gmtModified":1513905171000,"imageUrl":"back-1513905170156-nTBaHDV7fM"},{"id":251,"title":"2017，年度大事件盘点！","secondTitle":"回顾这一年值得铭记的时刻","schemeUrl":"https://m.youxiang0210.com/activity/100012","imageId":535470,"sort":7900,"channelId":0,"gmtCreated":1514550631000,"gmtModified":1514550631000,"imageUrl":"back-1515374825454-7umgye7S0c"},{"id":255,"title":"2018这些大片将要上映","secondTitle":"你的钱包做好准备了吗","schemeUrl":"https://m.youxiang0210.com/activity/100026","imageId":554877,"sort":8300,"channelId":0,"gmtCreated":1514892740000,"gmtModified":1514892740000,"imageUrl":"back-1515634866079-4sUw7AxXzX"},{"id":262,"title":"笑傲江湖第二季","secondTitle":"郭德纲玩疯纸片舞 天赐搞笑述说成名后坎坷历程","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2490470213305344&videoDetailId=d2490491165295616","imageId":555070,"sort":8400,"channelId":0,"gmtCreated":1515508441000,"gmtModified":1515508441000,"imageUrl":"back-1515635280303-Wj10I7v9BA"},{"id":264,"title":"更广州|暖心煲仔饭","secondTitle":"“回家开饭”才是最暖心的一碗饭","schemeUrl":"jcgroup://youxiang.com/go?action=videoPlay&videoId=v2318883190653952&videoDetailId=d2467777081197568","imageId":555263,"sort":8500,"channelId":0,"gmtCreated":1515635411000,"gmtModified":1515635411000,"imageUrl":"back-1515635405891-QpIXTLLChl"}]}
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":10000,"errmsg":"系统错误","data":null}
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:39) ]
-INFO:返回参数:{"code":20000,"errmsg":"请求参数错误","data":null}
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.BannerTest >> Method: testcase.dev.hot.BannerTest.bannerTest(BannerTest.java:40) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/v2/mobile/banner,入参：{"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
-
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:37) ]
-INFO:URL:http://test.dxapi.youxiang0210.com/mobile/hotCard,入参：{
- "clientId": "jc_youxiang_app",
- "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
- "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
- "appVersion": "0.3.3",
- "deviceOsType": 2,
- "accessToken": "93b4673ce823416db1e1df4c012839c2",
- "page": 0,
- "size": "1"
-}
-2018-05-22 19:04:08 下午 [Thread: main][ Class:testcase.dev.hot.HotCardTest >> Method: testcase.dev.hot.HotCardTest.hotCardTest(HotCardTest.java:38) ]
-INFO:返回参数:{"code":0,"errmsg":null,"data":{"legoChannels":[{"gmtModified":1495421304000,"gmtCreated":1491852431000,"enable":1,"isMore":0,"videos":[{"images":[{"name":"back-1498800405610-16男子嫌等灯时间长_夜间私调信号灯.jpg","scale":1,"url":"back-1498812566990-4.jpg"},{"name":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg","scale":3,"url":"back-1498800408653-2男子嫌等灯时间长_夜间私调信号灯.jpg"},{"name":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg","scale":5,"url":"back-1498800413553-1男子嫌等灯时间长_夜间私调信号灯.jpg"}],"bizType":0,"director":"","relationId":96,"actor":"","duration":85,"extMap":{"clarity":"","sign":""},"subName":"","intro":"男子嫌等灯时间长夜间私调信号灯","name":"奇葩！男子私调信号灯","categories":1,"videoBaseId":"v2245373396255744","episodes":0,"status":2},{"images":[{"name":"back-1498800490297-一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":1,"url":"back-1498812586221-1.jpg"},{"name":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":5,"url":"back-1498800498097-1一审被判无期！3D还原16岁女生教室遇害案.jpg"},{"name":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg","scale":3,"url":"back-1498800503681-2一审被判无期！3D还原16岁女生教室遇害案.jpg"}],"bizType":0,"director":"","relationId":97,"actor":"","duration":81,"extMap":{"clarity":"","sign":""},"subName":"","intro":"一审被判无期！3D还原16岁女生教室遇害案","name":"不堪入目！披露奸杀细节","categories":1,"videoBaseId":"v2245374789223424","episodes":0,"status":2},{"images":[{"name":"back-1498800556042-16安徽：男子名叫方向盘-驾照走红.jpg","scale":1,"url":"back-1498812599618-2.jpg"},{"name":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg","scale":5,"url":"back-1498800560769-1安徽：男子名叫方向盘-驾照走红.jpg"},{"name":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg","scale":3,"url":"back-1498800563250-2安徽：男子名叫方向盘-驾照走红.jpg"}],"bizType":0,"director":"","relationId":98,"actor":"","duration":69,"extMap":{"clarity":"","sign":""},"subName":"","intro":"安徽：男子名叫方向盘 驾照走红朋友圈","name":"爸妈真司机 取名也开车","categories":1,"videoBaseId":"v2245376488342528","episodes":0,"status":2},{"images":[{"name":"back-1498800665697-16中学老师怒怼“王者荣耀”引关注.jpg","scale":1,"url":"back-1498812615265-3.jpg"},{"name":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg","scale":5,"url":"back-1498800668178-1中学老师怒怼“王者荣耀”引关注.jpg"},{"name":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg","scale":3,"url":"back-1498800670508-2中学老师怒怼“王者荣耀”引关注.jpg"}],"bizType":0,"director":"","relationId":99,"actor":"","duration":358,"extMap":{"clarity":"","sign":""},"subName":"","intro":"中学老师怒怼“王者荣耀”引关注","name":"中小学生沉迷手游引关注","categories":1,"videoBaseId":"v2245377521189888","episodes":0,"status":3}],"id":1,"sort":1,"moreUrl":"#","title":"资讯","layoutId":2,"layoutName":"未配置"}],"pager":{"pages":10,"firstPage":true,"lastPage":false,"records":10,"pageNo":1,"pageSize":1}}}
