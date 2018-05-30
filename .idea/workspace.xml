@@ -4,15 +4,49 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06338d70-d70e-4c29-bb1e-28e4cf054430" name="Default" comment="">
+    <list default="true" id="06338d70-d70e-4c29-bb1e-28e4cf054430" name="Default" comment="fy39919">
+      <change afterPath="$PROJECT_DIR$/test-output/Suite1/hottest_dev.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite1/hottest_dev.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite1/hottest_mst.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite1/hottest_mst.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/Suite1/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.dev.channel.AbleChannel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.dev.channel.SearchNewTownChannelListTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.dev.hot.BannerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.dev.hot.HotCardTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.master.channel.AbleChannel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.master.channel.SearchNewTownChannelListTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.master.hot.BannerTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/junitreports/TEST-testcase.master.hot.HotCardTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/hottest_dev.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/hottest_mst.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/Suite1/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/testng.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testng-output/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/error.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/error.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/info.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/info.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logs/warn.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logs/warn.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -28,72 +62,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="yxsp-dev.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-dev.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test-output/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75" />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="yxsp-master.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/yxsp-master.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="84">
+              <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/test.java">
+      <file leaf-file-name="testng-reports.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test-output/testng-reports.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExcelDataUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/ExcelDataUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="825">
-              <caret line="49" column="28" selection-start-line="49" selection-start-column="28" selection-end-line="49" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnalysisJsonUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/util/AnalysisJsonUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="26" column="37" selection-start-line="26" selection-start-column="37" selection-end-line="26" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HotCardTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="29" column="58" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
+            <state relative-caret-position="94">
+              <caret line="279" column="22" selection-start-line="279" selection-start-column="22" selection-end-line="279" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -524,7 +506,7 @@
       <workItem from="1527474704111" duration="2980000" />
       <workItem from="1527490398213" duration="7143000" />
       <workItem from="1527560652836" duration="45000" />
-      <workItem from="1527646442147" duration="926000" />
+      <workItem from="1527646442147" duration="2613000" />
     </task>
     <task id="LOCAL-00001" summary="fy39919">
       <created>1526523043493</created>
@@ -596,19 +578,24 @@
       <option name="project" value="LOCAL" />
       <updated>1527241675819</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fy39919">
+      <created>1527647542271</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1527647542271</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fy39919">
+      <created>1527649388826</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1527649388826</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AbleChannel - 2018.05.22 at 18h 50m 33s.xml">
-      <configuration name="AbleChannel" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.22 at 18h 52m 12s.xml">
-      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="D__yxspAuto_src_main_resources_yxsp_xml - 2018.05.22 at 18h 58m 21s.xml">
-      <configuration name="D:/yxspAuto/src/main/resources/yxsp.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="D__yxspAuto_src_main_resources_yxsp-dev_xml - 2018.05.22 at 19h 04m 08s.xml">
       <configuration name="D:/yxspAuto/src/main/resources/yxsp-dev.xml" configurationId="TestNG" />
     </history-entry>
@@ -630,9 +617,18 @@
     <history-entry file="D__yxspAuto_src_main_resources_yxsp-dev_xml - 2018.05.30 at 10h 24m 52s.xml">
       <configuration name="D:/yxspAuto/src/main/resources/yxsp-dev.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp-dev_xml - 2018.05.30 at 10h 29m 33s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp-dev.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp-master_xml - 2018.05.30 at 10h 29m 44s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp-master.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="D__yxspAuto_src_main_resources_yxsp-master_xml - 2018.05.30 at 10h 29m 55s.xml">
+      <configuration name="D:/yxspAuto/src/main/resources/yxsp-master.xml" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="108714000" />
+    <option name="totallyTimeSpent" value="110401000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -648,7 +644,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3285124" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.4032258" />
+      <window_info anchor="bottom" id="Messages" order="7" visible="true" weight="0.4032258" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -656,7 +652,7 @@
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33512545" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21326165" />
       <window_info anchor="bottom" id="Spring" order="8" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3291592" />
       <window_info id="Capture Tool" order="2" />
@@ -729,14 +725,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/HotCardTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="58" lean-forward="true" selection-start-line="29" selection-start-column="58" selection-end-line="29" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ExcelData/IsCollectedData.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/bean/httpheaderbean/HttpRequestHeaderBean.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -950,13 +938,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/testcase/dev/hot/BannerTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
@@ -973,7 +954,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test-output/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75" />
+        <state relative-caret-position="225">
+          <caret line="12" column="62" lean-forward="true" selection-start-line="12" selection-start-column="62" selection-end-line="12" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="29" column="32" lean-forward="true" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/old/Suite1/hottest_mst.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/testng-reports.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="279" column="22" selection-start-line="279" selection-start-column="22" selection-end-line="279" selection-end-column="22" />
+        </state>
       </provider>
     </entry>
   </component>

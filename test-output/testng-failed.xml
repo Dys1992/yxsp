@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <test name="hottest_mst(failed)">
+    <classes>
+      <class name="testcase.master.channel.SearchNewTownChannelListTest">
+        <methods>
+          <include name="newTownChannelListData"/>
+          <include name="searchNewTownChannelListTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testcase.master.channel.SearchNewTownChannelListTest -->
+      <class name="testcase.master.hot.HotCardTest">
+        <methods>
+          <include name="hotCardTest" invocation-numbers="0"/>
+          <include name="hotCardData"/>
+        </methods>
+      </class> <!-- testcase.master.hot.HotCardTest -->
+      <class name="testcase.master.hot.BannerTest">
+        <methods>
+          <include name="bannerTest" invocation-numbers="0 1 2"/>
+          <include name="bannerData"/>
+        </methods>
+      </class> <!-- testcase.master.hot.BannerTest -->
+      <class name="testcase.master.channel.AbleChannel">
+        <methods>
+          <include name="ableChannelTest" invocation-numbers="0"/>
+          <include name="ableChannelData"/>
+        </methods>
+      </class> <!-- testcase.master.channel.AbleChannel -->
+    </classes>
+  </test> <!-- hottest_mst(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

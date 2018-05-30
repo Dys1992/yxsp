@@ -1,0 +1,149 @@
+<html>
+<head>
+<title>TestNG:  hottest_dev</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>hottest_dev</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>6/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed May 30 10:29:31 CST 2018</td>
+</tr>
+<tr><td>Total time:</td><td>1 seconds (1599 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='testcase.dev.channel.AbleChannel.ableChannelTest()'><b>ableChannelTest</b><br>Test class: testcase.dev.channel.AbleChannel<br>Parameters: {path=/v2/mobile/ableChannel, remark= environment
+dev：0
+master：1, code=0, casename=查询频道列表V2不包含精选/正常用例, body={
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.channel.AbleChannel@2a742aa2</td></tr>
+<tr>
+<td title='testcase.dev.hot.BannerTest.bannerTest()'><b>bannerTest</b><br>Test class: testcase.dev.hot.BannerTest<br>Parameters: {path=/v2/mobile/banner, environment=0, code=0, CaseName=banner/正常用例, remark= environment
+dev：0
+master：1, body={"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 0,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.hot.BannerTest@3dfc5fb8</td></tr>
+<tr>
+<td title='testcase.dev.hot.BannerTest.bannerTest()'><b>bannerTest</b><br>Test class: testcase.dev.hot.BannerTest<br>Parameters: {path=/v2/mobile/banner, environment=0, code=10000, CaseName=banner/channelId为不存在的值, remark= environment
+dev：0
+master：1, body={"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","channelId": 111111111111111,"deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.hot.BannerTest@3dfc5fb8</td></tr>
+<tr>
+<td title='testcase.dev.hot.BannerTest.bannerTest()'><b>bannerTest</b><br>Test class: testcase.dev.hot.BannerTest<br>Parameters: {path=/v2/mobile/banner, environment=0, code=20000, CaseName=banner/channelId缺失, remark= environment
+dev：0
+master：1, body={"secret": "13c5b701c1ef49c0b032ce41b9bec5c2","uid": "20070", "appVersion": "0.3.3","deviceOsType": 2,"uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC", "clientId": "jc_youxiang_app","accessToken": "93b4673ce823416db1e1df4c012839c2"}
+}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.hot.BannerTest@3dfc5fb8</td></tr>
+<tr>
+<td title='testcase.dev.hot.HotCardTest.hotCardTest()'><b>hotCardTest</b><br>Test class: testcase.dev.hot.HotCardTest<br>Parameters: {path=/mobile/hotCard, environment=0, code=0, remark= environment
+dev：0
+master：1, casename=hotcard/正常用例, body={
+ "clientId": "jc_youxiang_app",
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "accessToken": "93b4673ce823416db1e1df4c012839c2",
+ "page": 0,
+ "size": "1"
+}}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.hot.HotCardTest@467aecef</td></tr>
+<tr>
+<td title='testcase.dev.channel.SearchNewTownChannelListTest.searchNewTownChannelListTest()'><b>searchNewTownChannelListTest</b><br>Test class: testcase.dev.channel.SearchNewTownChannelListTest<br>Parameters: {path=/v2/mobile/ableChannelSecond, remark= environment
+dev：0
+master：1, code=0, body={
+ "secret": "13c5b701c1ef49c0b032ce41b9bec5c2",
+ "uid": "20070",
+ "appVersion": "0.3.3",
+ "deviceOsType": 2,
+ "uuid": "90E95A72-D188-4010-875D-09EF0AF1ABCC",
+ "clientId": "jc_youxiang_app",
+ "accessToken": "e5722926f28b41449d0620a4fb11cd2d"
+}
+, CaseName=新城镇列表/正常用例}</td>
+<td></td>
+<td>0</td>
+<td>testcase.dev.channel.SearchNewTownChannelListTest@3cb1ffe6</td></tr>
+</table><p>
+</body>
+</html>
