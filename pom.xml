@@ -25,7 +25,6 @@
                     <testFailureIgnore>true</testFailureIgnore>
                     <suiteXmlFiles>
                         <suiteXmlFile>src/main/resources/yxsp-dev.xml</suiteXmlFile>
-
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
