@@ -2,6 +2,7 @@ package util;
 
 
 import java.text.DateFormat;
+import java.text.ParseException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
 import java.util.Date;
@@ -55,37 +56,113 @@ public class DateUtils {
     }
 
     /**
-     * @param pattern
-     * @return
+     * @param pattern 日期格式
+     * @return 日期格式
      */
-    public static DateFormat getNewDateFormat(String pattern) {
+    private static DateFormat getNewDateFormat(String pattern) {
         DateFormat df = new SimpleDateFormat(pattern);
         df.setLenient(false);
         return df;
     }
 
+
     /**
-     *当前日期
-     *@return
+     * 今天的时间
+     * @param pattern 日期格式
+     * @return string
+     * */
+    public static String getToday(String pattern){
+        DateFormat dateFormat = getNewDateFormat(pattern);
+        Calendar calendar = Calendar.getInstance();
+        return  dateFormat.format(calendar.getTime());
+    }
+
+
+    /**
+     * 获取n天后的时间
+     * @param addDay 间隔的天数
+     * @return
      * 2018-01-25格式日期
      */
-    public static String getToday(int addDay) {
-        DateFormat dateFormat = getNewDateFormat(WEB_FORMAT);
+    public static String getNextDay(int addDay,String pattern) {
+        DateFormat dateFormat = getNewDateFormat(pattern);
         Calendar calendar = Calendar.getInstance();
         calendar.add(Calendar.DAY_OF_MONTH,addDay);
         return dateFormat.format(calendar.getTime());
     }
 
     /**
-     *当前日期
-     *@return
-     *HH:mm格式时间
+     * 获取n小时后
+     * @param addHour 增加几个小时
+     * @param pattern 日期格式
+     * @return 日期
+     * */
+    public static String getNextHour(int addHour,String pattern) {
+
+        DateFormat dateFormat = getNewDateFormat(pattern);
+        Calendar calendar = Calendar.getInstance();
+        calendar.add(Calendar.HOUR_OF_DAY,addHour);
+        return dateFormat.format(calendar.getTime());
+
+    }
+
+    /**
+     * 当前yyyy-MM-dd HH:mm 格式的日期
+     * @return HH:mm格式时间
      **/
     public static String getNoSecondTime(){
+
         DateFormat dateFormat = getNewDateFormat(NOSECOND_TIME_FORMAT);
         Date date = new Date();
         return  dateFormat.format(date);
+
     }
 
+    /**
+     * 指定时间的13位时间戳
+     * @param dateStr 时间
+     * @param pattern 日期格式
+     * @return 指定时间的13位时间戳
+     * */
+    public static String getTimeStamp(String dateStr,String pattern) throws ParseException {
+
+        DateFormat dateFormat = getNewDateFormat(pattern);
+        return String.valueOf(dateFormat.parse(dateStr).getTime());
+
+    }
+
+    /**
+     * 指定时间的10位时间戳
+     * @param dateStr 时间
+     * @param pattern 日期格式
+     * @return 10位时间戳
+     * */
+    public static String getTenTimeStamp(String dateStr,String pattern) throws ParseException {
+
+        DateFormat dateFormat = getNewDateFormat(pattern);
+        return String.valueOf(dateFormat.parse(dateStr).getTime() / 1000);
+
+    }
+
+
+    /**
+     * @return 10位时间戳
+     * */
+    public static String getNowTenTimeStamp(){
+
+        long time = System.currentTimeMillis();
+        return String.valueOf(time / 1000);
+
+    }
+
+    /**
+     * @return 13位时间戳
+     * */
+    public static String getNowTimeStamp(){
+
+        long time = System.currentTimeMillis();
+        return String.valueOf((time / 1000) *1000);
+
+    }
 
 }
