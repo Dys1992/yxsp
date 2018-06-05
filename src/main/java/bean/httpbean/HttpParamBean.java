@@ -1,13 +1,10 @@
-package bean.httpparambean;/**
- * @Author: Gosin
- * @Date: 2018/4/17 11:36
- */
+package bean.httpbean;
 
 /**
- * @Author: Gosin
+ * @Author: fanyu
  * @Date: 2018/4/17 11:36
  */
-public class HttpRequestParamBean {
+public class HttpParamBean {
 
     private String key;
     private String value;
