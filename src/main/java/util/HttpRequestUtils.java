@@ -1,5 +1,6 @@
 package util;
 
+import bean.httpheaderbean.HttpRequestHeaderBean;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.config.RequestConfig;
@@ -13,6 +14,7 @@ import org.apache.http.util.EntityUtils;
 import org.apache.log4j.Logger;
 
 import java.io.IOException;
+import java.util.List;
 
 /**
  * @author fanyu
@@ -21,6 +23,7 @@ import java.io.IOException;
 public class HttpRequestUtils {
 
     public static final Logger log = Logger.getLogger(HttpRequestUtils.class);
+    private static String result;
 
     /**
      * 私有构造方法
@@ -40,7 +43,7 @@ public class HttpRequestUtils {
      * @param strParam 请求参数
      */
     public static String sendGet(String url,String strParam){
-        String result = null;
+
         CloseableHttpClient client = HttpClients.createDefault();
         HttpGet httpGet = new HttpGet(url+"?"+strParam);
         try {
@@ -71,7 +74,7 @@ public class HttpRequestUtils {
      * @param strParam 请求参数
      */
     public static String sendPost(String url, String strParam){
-        String result = null ;
+
         CloseableHttpClient client = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(url);
         try{
@@ -109,9 +112,49 @@ public class HttpRequestUtils {
         return result;
     }
 
+    public static String sendPost(String url, String dataStr, List<HttpRequestHeaderBean> list){
+        CloseableHttpClient client = HttpClients.createDefault();
+        HttpPost httpPost = new HttpPost(url);
+
+        try{
+            if(null != dataStr){
+                for(HttpRequestHeaderBean httpRequest : list){
+                    httpPost.addHeader(httpRequest.getKey(),httpRequest.getValue());
+                }
+                StringEntity entity = new StringEntity(dataStr,"UTF-8");
+                entity.setContentEncoding("UTF-8");
+
+                entity.setContentType("application/json");
+                httpPost.setEntity(entity);
+                httpPost.setConfig(requestConfig);
+            }else {
+                log.error("请求参数为空");
+            }
+
+            CloseableHttpResponse result1 = client.execute(httpPost);
+
+            if (result1.getStatusLine().getStatusCode() == HttpStatus.SC_OK){
+                try{
+
+                    result = EntityUtils.toString(result1.getEntity(),"UTF-8");
+
+                }catch (Exception e){
+
+                    log.error("post请求提交失败:" + url, e);
+
+                }
+            }
+
+        } catch (ClientProtocolException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            log.error("post请求提交失败:" + url, e);
+            e.printStackTrace();
+        }
+
+        return result;
+    }
 
 
-
-    
 
 }
