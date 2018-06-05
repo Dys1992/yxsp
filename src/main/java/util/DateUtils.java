@@ -52,7 +52,6 @@ public class DateUtils {
      * 私有构造函数
      */
     private DateUtils(){
-
     }
 
     /**
@@ -67,7 +66,6 @@ public class DateUtils {
 
 
     /**
-     * 今天的时间
      * @param pattern 日期格式
      * @return string
      * */
@@ -79,7 +77,6 @@ public class DateUtils {
 
 
     /**
-     * 获取n天后的时间
      * @param addDay 间隔的天数
      * @return
      * 2018-01-25格式日期
@@ -92,7 +89,6 @@ public class DateUtils {
     }
 
     /**
-     * 获取n小时后
      * @param addHour 增加几个小时
      * @param pattern 日期格式
      * @return 日期
@@ -119,7 +115,6 @@ public class DateUtils {
     }
 
     /**
-     * 指定时间的13位时间戳
      * @param dateStr 时间
      * @param pattern 日期格式
      * @return 指定时间的13位时间戳
@@ -132,7 +127,6 @@ public class DateUtils {
     }
 
     /**
-     * 指定时间的10位时间戳
      * @param dateStr 时间
      * @param pattern 日期格式
      * @return 10位时间戳
