@@ -1,10 +1,10 @@
-package bean.httpheaderbean;
+package bean.httpbean;
 
 /**
  * @Author: fanyu
  * @Date: 2018/4/17 11:21
  */
-public class HttpRequestHeaderBean {
+public class HttpHeaderBean {
     private String key;
     private String value;
 

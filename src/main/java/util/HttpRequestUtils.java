@@ -1,6 +1,6 @@
 package util;
 
-import bean.httpheaderbean.HttpRequestHeaderBean;
+import bean.httpbean.HttpHeaderBean;
 import org.apache.http.HttpStatus;
 import org.apache.http.client.ClientProtocolException;
 import org.apache.http.client.config.RequestConfig;
@@ -112,13 +112,18 @@ public class HttpRequestUtils {
         return result;
     }
 
-    public static String sendPost(String url, String dataStr, List<HttpRequestHeaderBean> list){
+    /**
+     * @param url 请求地址
+     * @param dataStr 请求体
+     * @param list 请求头
+     * */
+    public static String sendPost(String url, String dataStr, List<HttpHeaderBean> list){
         CloseableHttpClient client = HttpClients.createDefault();
         HttpPost httpPost = new HttpPost(url);
 
         try{
             if(null != dataStr){
-                for(HttpRequestHeaderBean httpRequest : list){
+                for(HttpHeaderBean httpRequest : list){
                     httpPost.addHeader(httpRequest.getKey(),httpRequest.getValue());
                 }
                 StringEntity entity = new StringEntity(dataStr,"UTF-8");
